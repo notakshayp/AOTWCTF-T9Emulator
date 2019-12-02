@@ -6,14 +6,15 @@
     t9.dictionaryTree = {};
     t9.words = [];
     t9.keyMap = {
-        2: 'abc',
-        3: 'def',
-        4: 'ghi',
-        5: 'jkl',
-        6: 'mno',
-        7: 'pqrs',
-        8: 'tuv',
-        9: 'wxyz'
+        1: '.,'?!"1-()@/:',
+        2: 'abc2',
+        3: 'def3',
+        4: 'ghi4',
+        5: 'jkl5',
+        6: 'mno6',
+        7: 'pqrs7',
+        8: 'tuv8',
+        9: 'wxyz9'
     };
 
     function Word(word, occurrences) {
